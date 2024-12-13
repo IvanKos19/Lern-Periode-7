@@ -59,7 +59,7 @@ Am 29.11.2024 habe ich die Aufgaben PR_294_ClientSideRouting lesen und LA_294_84
 Am 06.12.2024 habe ich die Aufgaben LA_294_8431_ClientSideRouting, PR_294_8441_Testing lesen, LA_294_8045_InputValidieren und LA_294_8443_Selenium_IDE_Browser_Plugin erfolgreich abgeschlossen. Dabei konnte ich mein Wissen über Client-Side Routing, Testing-Prinzipien, Eingabevalidierung und die Verwendung von Selenium IDE erweitern. Diese Themen haben meine Fähigkeiten in der Webentwicklung und Softwarequalitätssicherung deutlich gestärkt. (Wortanzahl: 55)
 
 ## 13.12.2024
-- [ ] LA_347_1002_OpaErzaehltVorContainer
+- [ ] Advent of Code day 1
 - [ ] LA_347_1007_DockerUnterDerHaube
 - [ ] LA_347_3052_OrchestrationFrameworks
 - [ ] LA_347_4010_HalloContainer
